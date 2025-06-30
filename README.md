@@ -80,14 +80,14 @@ THE SIMPLICITY, INTERPRETABILITY, AND SPEED OF LOGISTIC REGRESSION MAKE IT A STR
 
 ##OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/8d4f3ee4-685e-46c2-a341-3ef633075017)
-
-![Image](https://github.com/user-attachments/assets/273f2753-f33f-4baf-8632-63824742f4e4)
-
-![Image](https://github.com/user-attachments/assets/7b749ff9-767a-47e9-aea3-d2bb3669b91f)
-
 ![Image](https://github.com/user-attachments/assets/fbefa8d2-813b-4252-a396-6191cf7e6d55)
 
 ![Image](https://github.com/user-attachments/assets/87940e7f-4b97-472c-813a-8a4ab54639bd)
 
 ![Image](https://github.com/user-attachments/assets/3360d4b9-05f7-4036-9ffd-bff98f9a7f28)
+
+![Image](https://github.com/user-attachments/assets/8d4f3ee4-685e-46c2-a341-3ef633075017)
+
+![Image](https://github.com/user-attachments/assets/273f2753-f33f-4baf-8632-63824742f4e4)
+
+![Image](https://github.com/user-attachments/assets/7b749ff9-767a-47e9-aea3-d2bb3669b91f)
